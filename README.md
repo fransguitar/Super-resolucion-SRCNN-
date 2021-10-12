@@ -1,4 +1,4 @@
-# VQ-GAN-superresolution
+# Super Resolution (SRCNN)
 <img src="banner.svg" >
 
 Este proyecto es desarrollado por Frans Guillermo Taboada, Andres Felipe Rojas Santos, Juan Pablo Claro Perez.
